@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KHYO6jCrUfc23NJVA1dd3f+TZjTxppufJHf9PEc3Bg8=",
+  "Source": "PieShopApp.API.Endpoint",
+  "BasePath": "_content/PieShopApp.API.Endpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

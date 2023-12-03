@@ -1,0 +1,17 @@
+E:\test\PieShopApp\PieShopApp.API.Persistence\bin\Debug\net7.0\PieShopApp.API.Persistence.deps.json
+E:\test\PieShopApp\PieShopApp.API.Persistence\bin\Debug\net7.0\PieShopApp.API.Persistence.dll
+E:\test\PieShopApp\PieShopApp.API.Persistence\bin\Debug\net7.0\PieShopApp.API.Persistence.pdb
+E:\test\PieShopApp\PieShopApp.API.Persistence\bin\Debug\net7.0\PieShopApp.Core.dll
+E:\test\PieShopApp\PieShopApp.API.Persistence\bin\Debug\net7.0\PieShopApp.Infrastructure.dll
+E:\test\PieShopApp\PieShopApp.API.Persistence\bin\Debug\net7.0\PieShopApp.Core.pdb
+E:\test\PieShopApp\PieShopApp.API.Persistence\bin\Debug\net7.0\PieShopApp.Infrastructure.pdb
+E:\test\PieShopApp\PieShopApp.API.Persistence\obj\Debug\net7.0\PieShopApp.API.Persistence.csproj.AssemblyReference.cache
+E:\test\PieShopApp\PieShopApp.API.Persistence\obj\Debug\net7.0\PieShopApp.API.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\test\PieShopApp\PieShopApp.API.Persistence\obj\Debug\net7.0\PieShopApp.API.Persistence.AssemblyInfoInputs.cache
+E:\test\PieShopApp\PieShopApp.API.Persistence\obj\Debug\net7.0\PieShopApp.API.Persistence.AssemblyInfo.cs
+E:\test\PieShopApp\PieShopApp.API.Persistence\obj\Debug\net7.0\PieShopApp.API.Persistence.csproj.CoreCompileInputs.cache
+E:\test\PieShopApp\PieShopApp.API.Persistence\obj\Debug\net7.0\PieShopApp.API.Persistence.csproj.CopyComplete
+E:\test\PieShopApp\PieShopApp.API.Persistence\obj\Debug\net7.0\PieShopApp.API.Persistence.dll
+E:\test\PieShopApp\PieShopApp.API.Persistence\obj\Debug\net7.0\refint\PieShopApp.API.Persistence.dll
+E:\test\PieShopApp\PieShopApp.API.Persistence\obj\Debug\net7.0\PieShopApp.API.Persistence.pdb
+E:\test\PieShopApp\PieShopApp.API.Persistence\obj\Debug\net7.0\ref\PieShopApp.API.Persistence.dll

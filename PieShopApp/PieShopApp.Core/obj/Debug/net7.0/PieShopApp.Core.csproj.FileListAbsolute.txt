@@ -1,0 +1,12 @@
+E:\test\PieShopApp\PieShopApp.Core\bin\Debug\net7.0\PieShopApp.Core.deps.json
+E:\test\PieShopApp\PieShopApp.Core\bin\Debug\net7.0\PieShopApp.Core.dll
+E:\test\PieShopApp\PieShopApp.Core\bin\Debug\net7.0\PieShopApp.Core.pdb
+E:\test\PieShopApp\PieShopApp.Core\obj\Debug\net7.0\PieShopApp.Core.csproj.AssemblyReference.cache
+E:\test\PieShopApp\PieShopApp.Core\obj\Debug\net7.0\PieShopApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\test\PieShopApp\PieShopApp.Core\obj\Debug\net7.0\PieShopApp.Core.AssemblyInfoInputs.cache
+E:\test\PieShopApp\PieShopApp.Core\obj\Debug\net7.0\PieShopApp.Core.AssemblyInfo.cs
+E:\test\PieShopApp\PieShopApp.Core\obj\Debug\net7.0\PieShopApp.Core.csproj.CoreCompileInputs.cache
+E:\test\PieShopApp\PieShopApp.Core\obj\Debug\net7.0\PieShopApp.Core.dll
+E:\test\PieShopApp\PieShopApp.Core\obj\Debug\net7.0\refint\PieShopApp.Core.dll
+E:\test\PieShopApp\PieShopApp.Core\obj\Debug\net7.0\PieShopApp.Core.pdb
+E:\test\PieShopApp\PieShopApp.Core\obj\Debug\net7.0\ref\PieShopApp.Core.dll

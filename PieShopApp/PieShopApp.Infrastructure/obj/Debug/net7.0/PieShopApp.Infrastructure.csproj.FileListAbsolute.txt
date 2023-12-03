@@ -1,0 +1,15 @@
+E:\test\PieShopApp\PieShopApp.Infrastructure\bin\Debug\net7.0\PieShopApp.Infrastructure.deps.json
+E:\test\PieShopApp\PieShopApp.Infrastructure\bin\Debug\net7.0\PieShopApp.Infrastructure.dll
+E:\test\PieShopApp\PieShopApp.Infrastructure\bin\Debug\net7.0\PieShopApp.Infrastructure.pdb
+E:\test\PieShopApp\PieShopApp.Infrastructure\bin\Debug\net7.0\PieShopApp.Core.dll
+E:\test\PieShopApp\PieShopApp.Infrastructure\bin\Debug\net7.0\PieShopApp.Core.pdb
+E:\test\PieShopApp\PieShopApp.Infrastructure\obj\Debug\net7.0\PieShopApp.Infrastructure.csproj.AssemblyReference.cache
+E:\test\PieShopApp\PieShopApp.Infrastructure\obj\Debug\net7.0\PieShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\test\PieShopApp\PieShopApp.Infrastructure\obj\Debug\net7.0\PieShopApp.Infrastructure.AssemblyInfoInputs.cache
+E:\test\PieShopApp\PieShopApp.Infrastructure\obj\Debug\net7.0\PieShopApp.Infrastructure.AssemblyInfo.cs
+E:\test\PieShopApp\PieShopApp.Infrastructure\obj\Debug\net7.0\PieShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\test\PieShopApp\PieShopApp.Infrastructure\obj\Debug\net7.0\PieShopApp.Infrastructure.csproj.CopyComplete
+E:\test\PieShopApp\PieShopApp.Infrastructure\obj\Debug\net7.0\PieShopApp.Infrastructure.dll
+E:\test\PieShopApp\PieShopApp.Infrastructure\obj\Debug\net7.0\refint\PieShopApp.Infrastructure.dll
+E:\test\PieShopApp\PieShopApp.Infrastructure\obj\Debug\net7.0\PieShopApp.Infrastructure.pdb
+E:\test\PieShopApp\PieShopApp.Infrastructure\obj\Debug\net7.0\ref\PieShopApp.Infrastructure.dll

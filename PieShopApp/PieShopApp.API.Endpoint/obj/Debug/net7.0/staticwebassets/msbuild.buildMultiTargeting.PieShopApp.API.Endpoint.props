@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PieShopApp.API.Endpoint.props" />
+</Project>

@@ -1,0 +1,6 @@
+{
+  "PieShopApp.API.Endpoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\test\\PieShopApp\\PieShopApp.API.Endpoint",
+  "PieShopApp.API.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\test\\PieShopApp\\PieShopApp.API.Persistence",
+  "PieShopApp.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\test\\PieShopApp\\PieShopApp.Core",
+  "PieShopApp.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\test\\PieShopApp\\PieShopApp.Infrastructure"
+}
